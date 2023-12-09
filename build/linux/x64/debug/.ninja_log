@@ -1,0 +1,108 @@
+# ninja log v5
+55008	55705	1702052228633283483	plugins/file_selector_linux/libfile_selector_linux_plugin.so	ed57f13e2ed26d04
+51123	55007	1702052227929950167	plugins/file_selector_linux/CMakeFiles/file_selector_linux_plugin.dir/file_selector_plugin.cc.o	9599c5bf4cf9cb98
+69	4698	0	flutter/_phony_	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	99f3bf6d195eee6b
+6551	7091	1702053665439996308	intermediates_do_not_run/tiktok_tutorial	7f886aa331da7ba
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_view.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_value.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	99f3bf6d195eee6b
+7091	7111	0	CMakeFiles/install.util	f69ce82791d302e5
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	99f3bf6d195eee6b
+4699	6541	1702053664879996322	CMakeFiles/tiktok_tutorial.dir/flutter/generated_plugin_registrant.cc.o	34155e4dfc00e2a5
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_engine.h	99f3bf6d195eee6b
+69626	75727	1702047258846561588	CMakeFiles/tiktok_tutorial.dir/main.cc.o	fd73cfaaedd82ec3
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	99f3bf6d195eee6b
+4699	6551	1702053664889996322	CMakeFiles/tiktok_tutorial.dir/my_application.cc.o	5209e462885581ca
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/libflutter_linux_gtk.so	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	99f3bf6d195eee6b
+69	4698	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/libflutter_linux_gtk.so	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_engine.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_value.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_view.h	99f3bf6d195eee6b
+27	4655	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	99f3bf6d195eee6b
+27	4655	0	flutter/_phony_	99f3bf6d195eee6b
+4655	6322	1702054338513313163	CMakeFiles/tiktok_tutorial.dir/flutter/generated_plugin_registrant.cc.o	34155e4dfc00e2a5
+4656	6330	1702054338516646496	CMakeFiles/tiktok_tutorial.dir/my_application.cc.o	5209e462885581ca
+6330	6874	1702054339069979816	intermediates_do_not_run/tiktok_tutorial	7f886aa331da7ba
+6874	6896	0	CMakeFiles/install.util	f69ce82791d302e5
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/libflutter_linux_gtk.so	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_engine.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_value.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_view.h	99f3bf6d195eee6b
+7	7796	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	99f3bf6d195eee6b
+7	7796	0	flutter/_phony_	99f3bf6d195eee6b
+7799	10457	1702067392889929816	CMakeFiles/tiktok_tutorial.dir/flutter/generated_plugin_registrant.cc.o	34155e4dfc00e2a5
+7799	10466	1702067392896596483	CMakeFiles/tiktok_tutorial.dir/my_application.cc.o	5209e462885581ca
+10466	11139	1702067393579929799	intermediates_do_not_run/tiktok_tutorial	7f886aa331da7ba
+11140	11384	0	CMakeFiles/install.util	f69ce82791d302e5
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/libflutter_linux_gtk.so	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_engine.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_value.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/fl_view.h	99f3bf6d195eee6b
+5	6390	0	/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	99f3bf6d195eee6b
+5	6390	0	flutter/_phony_	99f3bf6d195eee6b
+6393	7613	1702067695883255847	CMakeFiles/tiktok_tutorial.dir/flutter/generated_plugin_registrant.cc.o	34155e4dfc00e2a5
+6393	7642	1702067695913255846	CMakeFiles/tiktok_tutorial.dir/my_application.cc.o	5209e462885581ca
+7642	8306	1702067696583255829	intermediates_do_not_run/tiktok_tutorial	7f886aa331da7ba
+8306	8373	0	CMakeFiles/install.util	f69ce82791d302e5

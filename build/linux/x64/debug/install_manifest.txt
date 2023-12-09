@@ -1,0 +1,15 @@
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/tiktok_tutorial
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/assets/profile.webp
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/assets/menu.webp
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kennedymj/Desktop/Flutter Projects/tiktok_tutorial/build/linux/x64/debug/bundle/data/flutter_assets/version.json
